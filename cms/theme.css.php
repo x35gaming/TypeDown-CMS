@@ -1,3 +1,9 @@
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
 a{color:orange}
 html {
   color: white;
