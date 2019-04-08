@@ -9,7 +9,8 @@ go to the pages directory
 #### to create main page:
 open the `index.md` file
 edit the file to your needs
-##### tip : you can make headers and rich text just by:```md
+##### tip : you can make headers and rich text just by:
+```md
 # h1
 ## h2
 ### h3
