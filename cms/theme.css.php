@@ -1,5 +1,5 @@
 pre code {
-  background-color: #eee;
+  background-color: #00245e;
   border: 1px solid #999;
   display: block;
   padding: 20px;
